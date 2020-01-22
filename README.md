@@ -1,7 +1,6 @@
-# caitlyn
-# major studio II
+# caitlyn, major studio II
 
-## research exercise: literature review
+## research exercise: literature review 1/21/20
 ### topics: live music and nyc/london fashion
 
 Breward, Christopher. Fashioning London: Clothing and the Modern Metropolis. Oxford: Berg, 2004.
