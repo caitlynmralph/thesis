@@ -2,11 +2,11 @@
 
 ## exercise 1: research question
 
-
+![alt text](mind-map.png "mind map")
 
 music
-Topic: I’m visualizing the touring history of the 1975/Catfish and the Bottlemen
 
+Topic: I’m visualizing the touring history of the 1975/Catfish and the Bottlemen
 	Datasets
 		Touring
 			Songkick API
@@ -33,36 +33,38 @@ Topic: I’m visualizing the touring history of the 1975/Catfish and the Bottlem
 		Alternate measure of success (vs. charting, streaming, etc)
 			Ask for arguments against this
 			Frith, Simon, Matt Brennan, Emma Webster, and Martin Cloonan. The History of Live Music in Britain.
+
 Research Question: Because I want to show the band’s legacy and footprint
 	Touring creates a legacy and physical footprint
 		Why is touring particularly important for music now?
 			The Digital Evolution of Live Music.
 		How has touring changed?
-	Significance: In order to uncover their fandom, community, and family tree
-		Audience
-			Band itself
-				Different needs for these audiences: How does the data and viz and story appeal to each?
-			Fans
-			Industry
-				Perfect on existing models of success
-		Creation and display of fandom
-			Experimenting with Fandom, Live Music, and the Internet
-			Understanding Which Fandom? Insights from Two Decades as a Music Fan Researcher
-			Popular Music Fandom
-			Fandom: Identities and Communities in a Mediated World
-			Understanding Fandom
-			Fan loyalty
-				Creation of fan memory
-		Family tree of touring artists
-			Artist and fan Community
+
+Significance: In order to uncover their fandom, community, and family tree
+	Audience
+		Band itself
+			Different needs for these audiences: How does the data and viz and story appeal to each?
+		Fans
+		Industry
+			Perfect on existing models of success
+	Creation and display of fandom
+		Experimenting with Fandom, Live Music, and the Internet
+		Understanding Which Fandom? Insights from Two Decades as a Music Fan Researcher
+		Popular Music Fandom
+		Fandom: Identities and Communities in a Mediated World
+		Understanding Fandom
+		Fan loyalty
+			Creation of fan memory
+	Family tree of touring artists
+		Artist and fan Community
+
 Topic: I’m visualizing the history of the Arctic Monkeys and the Strokes
+Research Question: Because I want to compare the bands’ career arc
+Significance: In order to investigate their direct and indirect dialog defining the indie rock genre in the mid-2000s.
 
-	Research Question: Because I want to compare the bands’ career arc
-		Significance: In order to investigate their direct and indirect dialog defining the indie rock genre in the mid-2000s.
 Topic: I’m visualizing major points in the history of music in Northern England
-	Research Question: Because I want to show the relationship to social history
-		Significance: In order to elucidate what influences art
-
+Research Question: Because I want to show the relationship to social history
+Significance: In order to elucidate what influences art
 
 ## research exercise: literature review 1/21/20
 ### topics: live music and nyc/london fashion
