@@ -1,5 +1,11 @@
 # caitlyn, major studio II
 
+## exercise 2: form 
+
+![alt text](mind-map.png "mind map")
+![alt text](mind-map.png "mind map")
+![alt text](mind-map.png "mind map")
+
 ## exercise 1: research question
 
 ![alt text](mind-map.png "mind map")
