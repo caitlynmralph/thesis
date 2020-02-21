@@ -2,9 +2,9 @@
 
 ## exercise 2: form 
 
-![alt text](17A00E6D-E3DD-4729-BBE1-D715C94089C8.jpeg "outline 2")
-![alt text](1048D4B4-0AE5-414B-B38C-6E33B6913193.jpeg "outline 1")
-![alt text](A3CD6B97-1E83-4AA7-BBD6-1DBD6D4B4C92.jpeg "notes")
+![alt text](storyboard.jpeg "outline 2")
+![alt text](outline.jpeg "outline 1")
+![alt text](exercise2-notes.jpeg "notes")
 
 ## exercise 1: research question
 
