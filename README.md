@@ -1,14 +1,17 @@
 # caitlyn, major studio II
 
-## exercise 3:prototyping
+## exercise 3: prototyping
 
 Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1">here</a> and a user flow presentation <a href="https://www.figma.com/proto/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1&scaling=min-zoom">here</a>.
 
 Screenshots:
 
+![](screenshot-idea0.png "idea 0" | width=100)
+![](screenshot-idea1.png "idea 1" | width=100)
+
 ## exercise 2: form 
 
-![](storyboard.png "outline 2" | width=100)
+![](storyboard.png =100)
 ![](outline.png "outline 1" | width=100)
 ![](exercise2-notes.png "notes" | width=100)
 
