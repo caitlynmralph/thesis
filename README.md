@@ -12,11 +12,7 @@ Screenshots:
 
 ## exercise 2: form 
 
-<img src="https://github.com/caitlynmralph/thesis/blob/master/storyboard.jpg" width="200">
-
-<img src="https://github.com/caitlynmralph/thesis/blob/master/outline.png" width="200">
-
-<img src="https://github.com/caitlynmralph/thesis/blob/master/exercise2-notes.png" width="200">
+<img src="https://github.com/caitlynmralph/thesis/blob/master/storyboard.jpg" width="300"> <img src="https://github.com/caitlynmralph/thesis/blob/master/outline.png" width="300"> <img src="https://github.com/caitlynmralph/thesis/blob/master/exercise2-notes.png" width="300">
 
 ## exercise 1: research question
 
