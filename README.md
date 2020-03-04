@@ -6,17 +6,17 @@ Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrD
 
 Screenshots:
 
-![](screenshot-idea0.png)
+<img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea0.png">
 
-![](screenshot-idea1.png)
+<img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea1.png">
 
 ## exercise 2: form 
 
-![](storyboard.jpg) 
+<img src="https://github.com/caitlynmralph/thesis/blob/master/storyboard.jpg" width="200">
 
-![](outline.png)
+<img src="https://github.com/caitlynmralph/thesis/blob/master/outline.png" width="200">
 
-![](exercise2-notes.png)
+<img src="https://github.com/caitlynmralph/thesis/blob/master/exercise2-notes.png" width="200">
 
 ## exercise 1: research question
 
