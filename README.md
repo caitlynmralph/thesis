@@ -6,19 +6,17 @@ Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrD
 
 Screenshots:
 
-![](screenshot-idea0.png "idea 0" | width=100)
+![](screenshot-idea0.png)
 
-![](screenshot-idea1.png "idea 1" | width=100)
+![](screenshot-idea1.png)
 
 ## exercise 2: form 
 
-![](storyboard.png =100x)
+![](storyboard.png) 
 
-![test](https://github.com/favicon.ico | width=48)
+![](outline.png)
 
-![](outline.png "outline 1" | width=100)
-
-![](exercise2-notes.png "notes" | width=100)
+![](exercise2-notes.png)
 
 ## exercise 1: research question
 
