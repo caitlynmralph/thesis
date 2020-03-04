@@ -11,7 +11,7 @@ Screenshots:
 
 ## exercise 2: form 
 
-![](storyboard.png =100)
+![](storyboard.png =100x)
 ![](outline.png "outline 1" | width=100)
 ![](exercise2-notes.png "notes" | width=100)
 
