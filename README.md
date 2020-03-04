@@ -12,7 +12,7 @@ Screenshots:
 
 ## exercise 2: form 
 
-![](storyboard.png) 
+![](storyboard.jpg) 
 
 ![](outline.png)
 
