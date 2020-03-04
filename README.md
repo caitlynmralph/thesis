@@ -2,15 +2,15 @@
 
 ## exercise 3:prototyping
 
-Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1">here</a> and a user flow presentation here. 
+Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1">here</a> and a user flow presentation <a href="https://www.figma.com/proto/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1&scaling=min-zoom">here</a>.
 
 Screenshots:
 
 ## exercise 2: form 
 
-![alt text](storyboard.jpg "outline 2")
-![alt text](outline.jpg "outline 1")
-![alt text](exercise2-notes.jpg "notes")
+![](storyboard.png "outline 2" | width=100)
+![](outline.png "outline 1" | width=100)
+![](exercise2-notes.png "notes" | width=100)
 
 ## exercise 1: research question
 
