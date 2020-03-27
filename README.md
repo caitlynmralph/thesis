@@ -1,6 +1,8 @@
 # caitlyn, major studio II
 
-## 50% treatment
+## database
+
+## treatment
 
 Google Doc here, PDF here.
 
