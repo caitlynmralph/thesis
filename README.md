@@ -1,10 +1,13 @@
 # caitlyn, major studio II
 
-## database
+## data
+
+- Documentation and data <a href="https://docs.google.com/document/d/1yM7jbl-SWVWB8geDjit5u7G5zIE_AXSR7i7kT6s5mnA/edit">here</a> (access restricted due to API restrictions).
+- Final database of artists (only, again due to API restrictions) on Github <a href="">here</a>.
 
 ## treatment
 
-Google Doc here, PDF here.
+- Google Doc here, PDF here.
 
 ## exercise 3: prototyping
 
