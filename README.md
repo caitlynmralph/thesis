@@ -3,11 +3,11 @@
 ## data
 
 - Documentation and data <a href="https://docs.google.com/document/d/1yM7jbl-SWVWB8geDjit5u7G5zIE_AXSR7i7kT6s5mnA/edit">here</a> (access restricted due to API restrictions).
-- Final database of artists (only, again due to API restrictions) on Github <a href="">here</a>.
+- Database of artists (only, again due to API restrictions) on Github <a href="https://github.com/caitlynmralph/thesis/blob/master/data/artist-list-aggregated-march.csv">here</a>.
 
 ## treatment
 
-- Google Doc here, PDF here.
+- Google Doc <a href="https://docs.google.com/document/d/1FQxdaQ5z1P4cutUEunYUm2fJjzKukr3jpTq4bKkW0ok/edit">here</a>.
 
 ## exercise 3: prototyping
 
