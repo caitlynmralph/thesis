@@ -11,9 +11,9 @@
 
 ## exercise 3: prototyping
 
-Visit my Figma document <a href="https://www.figma.com/file/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1">here</a> and a user flow presentation <a href="https://www.figma.com/proto/1zedgacncy0HvA7ttZrDYG/MSII-THESIS-AH?node-id=0%3A1&scaling=min-zoom">here</a>.
+Visit my Figma document <a href="https://www.figma.com/file/28pX4u7KsGoe1BWmsr3Dwn/MSII-THESIS-AH-PART-II?node-id=0%3A1">here</a> and a user flow presentation <a href="https://www.figma.com/proto/28pX4u7KsGoe1BWmsr3Dwn/MSII-THESIS-AH-PART-II?node-id=12%3A1&scaling=min-zoom">here</a>.
 
-Screenshots:
+<!--- Screenshots: -->
 
 <!--- <img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea0.png"> -->
 
@@ -21,7 +21,7 @@ Screenshots:
 
 ## exercise 2: form 
 
-<!--- <img src="https://github.com/caitlynmralph/thesis/blob/master/storyboard.jpg" width="300"> <img src="https://github.com/caitlynmralph/thesis/blob/master/outline.png" width="300"> <img src="https://github.com/caitlynmralph/thesis/blob/master/exercise2-notes.png" width="300"> -->
+<img src="https://github.com/caitlynmralph/thesis/blob/master/new_storyboard.png" width="300">
 
 ## exercise 1: research question
 
