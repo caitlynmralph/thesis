@@ -15,11 +15,9 @@ Visit my Figma document <a href="https://www.figma.com/file/28pX4u7KsGoe1BWmsr3D
 
 <img src="https://github.com/caitlynmralph/thesis/blob/master/wireframes.png">
 
-<!--- <img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea1.png"> -->
-
 ## exercise 2: form 
 
-<img src="https://github.com/caitlynmralph/thesis/blob/master/new_storyboard.png" width="300">
+<img src="https://github.com/caitlynmralph/thesis/blob/master/storyboard.png" width="300">
 
 ## exercise 1: research question
 
