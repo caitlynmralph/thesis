@@ -11,11 +11,9 @@
 
 ## exercise 3: prototyping
 
-Visit my Figma document <a href="https://www.figma.com/file/28pX4u7KsGoe1BWmsr3Dwn/MSII-THESIS-AH-PART-II?node-id=0%3A1">here</a> and a user flow presentation <a href="https://www.figma.com/proto/28pX4u7KsGoe1BWmsr3Dwn/MSII-THESIS-AH-PART-II?node-id=12%3A1&scaling=min-zoom">here</a>.
+Visit my Figma document <a href="https://www.figma.com/file/28pX4u7KsGoe1BWmsr3Dwn/MSII-THESIS-AH-PART-II?node-id=0%3A1">here</a>.
 
-<!--- Screenshots: -->
-
-<!--- <img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea0.png"> -->
+<img src="https://github.com/caitlynmralph/thesis/blob/master/wireframes.png">
 
 <!--- <img src="https://github.com/caitlynmralph/thesis/blob/master/screenshot-idea1.png"> -->
 
