@@ -4,7 +4,7 @@
 
 - Documentation and data <a href="https://docs.google.com/document/d/1yM7jbl-SWVWB8geDjit5u7G5zIE_AXSR7i7kT6s5mnA/edit">here</a> (access restricted due to API restrictions).
 - Database of artists (only, again due to API restrictions) on Github <a href="https://github.com/caitlynmralph/thesis/blob/master/data/artist-list-aggregated-march.csv">here</a>.
-- Database of abstracted touring histories and tags on Github <a href="">here</a>.
+- Database of abstracted touring histories and tags on Github <a href="https://github.com/caitlynmralph/thesis/blob/master/data/small-data.json">here</a>.
 
 ## treatment
 
